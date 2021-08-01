@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Emp-mgmt-frontend/static/css/main.c4c3974f.chunk.css",
+    "main.js": "/Emp-mgmt-frontend/static/js/main.76d0c852.chunk.js",
+    "main.js.map": "/Emp-mgmt-frontend/static/js/main.76d0c852.chunk.js.map",
+    "runtime-main.js": "/Emp-mgmt-frontend/static/js/runtime-main.8578c609.js",
+    "runtime-main.js.map": "/Emp-mgmt-frontend/static/js/runtime-main.8578c609.js.map",
+    "static/css/2.4be38407.chunk.css": "/Emp-mgmt-frontend/static/css/2.4be38407.chunk.css",
+    "static/js/2.f3ee94b2.chunk.js": "/Emp-mgmt-frontend/static/js/2.f3ee94b2.chunk.js",
+    "static/js/2.f3ee94b2.chunk.js.map": "/Emp-mgmt-frontend/static/js/2.f3ee94b2.chunk.js.map",
+    "static/js/3.3ff8a372.chunk.js": "/Emp-mgmt-frontend/static/js/3.3ff8a372.chunk.js",
+    "static/js/3.3ff8a372.chunk.js.map": "/Emp-mgmt-frontend/static/js/3.3ff8a372.chunk.js.map",
+    "index.html": "/Emp-mgmt-frontend/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/Emp-mgmt-frontend/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.c4c3974f.chunk.css.map": "/Emp-mgmt-frontend/static/css/main.c4c3974f.chunk.css.map",
+    "static/js/2.f3ee94b2.chunk.js.LICENSE.txt": "/Emp-mgmt-frontend/static/js/2.f3ee94b2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Emp-mgmt-frontend/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8578c609.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.f3ee94b2.chunk.js",
+    "static/css/main.c4c3974f.chunk.css",
+    "static/js/main.76d0c852.chunk.js"
+  ]
+}
